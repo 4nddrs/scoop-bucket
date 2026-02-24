@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "description": "SNAG (Simple Network API Gopher) is a high-performance, keyboard-driven Terminal User Interface (TUI) designed specifically for developers who want to explore and test FastAPI endpoints without leaving the terminal."",
+    "description": "SNAG (Simple Network API Gopher) is a high-performance, keyboard-driven Terminal User Interface (TUI) designed specifically for developers who want to explore and test FastAPI endpoints without leaving the terminal.",
     "homepage": "https://github.com/4nddrs/snag",
     "license": "MIT",
     "architecture": {
