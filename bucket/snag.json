@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/4nddrs/snag/releases/download/v1.0.1/snag.exe"
+                "url": "https://github.com/4nddrs/snag/releases/download/v$version/snag.exe"
             }
         }
     }
